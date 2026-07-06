@@ -53,7 +53,7 @@ This project demonstrates a machine learning-based Dynamic Difficulty Adjustment
 | File Name              | Description                                     |
 |------------------------|-------------------------------------------------|
 | `DDA_model.py`         | Full Python implementation of the model         |
-| `README.txt`            | Project documentation (this file)               |
+| `README.md`            | Project documentation (this file)               |
 | `output_sample.png`    | Screenshot of model output/terminal results     |
 | `confusion_matrix.png` | Heatmap visualization (auto-generated)          |
 | `accuracy_chart.png`   | Per-class recall bar chart (auto-generated)     |
