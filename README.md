@@ -63,6 +63,5 @@ This project demonstrates a machine learning-based Dynamic Difficulty Adjustment
 ## 🔍 How to Run
 
 1. Clone the repository:
-   ```bash
-git clone https://github.com/SaadAyazCS/Dynamic-Difficulty-Adjustment.git
+   ```bashgit clone https://github.com/SaadAyazCS/Dynamic-Difficulty-Adjustment.git
 cd Dynamic-Difficulty-Adjustment
